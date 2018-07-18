@@ -1,24 +1,7 @@
-# README
+# Sandbox
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created to boot up a Rails 5.1 app using Webpack*er* and React.
 
-Things you may want to cover:
+## ToDo
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [ ] Fix Next/Previous arrow jumping
